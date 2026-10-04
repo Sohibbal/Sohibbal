@@ -3,11 +3,6 @@
 <!--  Theme: Minimal Blue                                       -->
 <!-- ============================================================ -->
 
-<!-- HEADER — flat rectangle, blue gradient, no waves -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8,12,16,20&height=180&section=header&text=M.%20Sohibbal&fontSize=58&fontAlign=50&fontAlignY=45&fontColor=E8F4FD&desc=AI%20Engineer%20%E2%86%92%20Fullstack%20Web%20%E2%86%92%20Fullstack%20Mobile&descAlign=50&descAlignY=70&descColor=93C5FD&animation=fadeIn" />
-</div>
-
 <!-- ANIMATED NAME + ROLE TYPING -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1200&color=E8F4FD&center=true&vCenter=true&width=640&lines=M.+Sohibbal;%E2%86%92+AI+Engineer;%E2%86%92+Fullstack+Web+Dev;%E2%86%92+Fullstack+Mobile+Dev;%E2%86%92+Machine+Learning+Enthusiast" alt="Typing SVG" />
