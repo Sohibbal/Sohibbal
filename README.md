@@ -9,7 +9,6 @@
 </div>
 
 <br>
-<br>
 
 <!-- CONNECT WITH ME — at top -->
 <div align="center">
@@ -21,6 +20,8 @@
   </a>
   <img src="https://img.shields.io/badge/Riau%2C%20Indonesia-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
+
+<br>
 
 ## ⟫ About Me
 
