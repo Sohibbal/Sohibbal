@@ -15,11 +15,9 @@
   <a href="https://github.com/Sohibbal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
   <a href="https://www.linkedin.com/in/msohibbal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Riau%2C%20Indonesia-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
@@ -57,14 +55,8 @@ class Sohibbal:
 ### AI / Machine Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi&theme=dark" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a1a" height="45" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a1a" height="45" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a1a" height="45" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=1a1a1a" height="45" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=111&labelColor=1a1a1a" height="45" />
 </p>
 
 ### Frameworks & Runtime
