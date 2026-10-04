@@ -5,7 +5,7 @@
 
 <!-- ANIMATED NAME + ROLE TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1200&color=E8F4FD&center=true&vCenter=true&width=640&lines=M.+Sohibbal;%E2%86%92+AI+Engineer;%E2%86%92+Fullstack+Web+Dev;%E2%86%92+Fullstack+Mobile+Dev;%E2%86%92+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1200&color=E8F4FD&center=true&vCenter=true&width=640&lines=M.+Sohibbal.AI+Engineer;Web+Developer;MLOps+Engineer;Mobile+Developer;" alt="Typing SVG" />
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 
 ---
 
-## → About Me
+## ⟫ About Me
 
 <img align="right" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1ZWJnd2Nvb2RheXd4dGVucDd3cWFpOXBwYTBnbHJkbnRobGpuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -43,7 +43,7 @@ class Sohibbal:
 
 ---
 
-## → Tech Stack
+## ⟫ Tech Stack
 
 ### Languages
 <p align="left">
@@ -82,7 +82,7 @@ class Sohibbal:
 
 ---
 
-## → GitHub Statistics
+## ⟫ GitHub Statistics
 
 <div align="center">
 
@@ -100,7 +100,7 @@ class Sohibbal:
 
 ---
 
-## → Featured Projects
+## ⟫ Featured Projects
 
 <div align="center">
 
