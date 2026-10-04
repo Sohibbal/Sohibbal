@@ -37,8 +37,6 @@ class Human:
 
 <br clear="right">
 
----
-
 ## ⟫ Tech Stack
 
 ### Languages
@@ -51,7 +49,7 @@ class Human:
 ### AI / Machine Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,pytorch,pytorchlightning&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,pytorch&theme=dark" />
   </a>
 </p>
 
@@ -76,8 +74,6 @@ class Human:
   </a>
 </p>
 
----
-
 ## ⟫ GitHub Statistics
 
 <div align="center">
@@ -94,8 +90,6 @@ class Human:
 
 </div>
 
----
-
 ## ⟫ Featured Projects
 
 <div align="center">
@@ -110,8 +104,6 @@ class Human:
 
 </div>
 
----
-
 ## ⟫ Contribution Snake
 
 <div align="center">
@@ -121,8 +113,6 @@ class Human:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sohibbal/Sohibbal/output/github-snake-dark.svg" />
   </picture>
 </div>
-
----
 
 <!-- FOOTER — flat rectangle, blue gradient reversed, with motto -->
 <div align="center">
