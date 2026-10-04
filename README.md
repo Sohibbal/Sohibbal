@@ -28,15 +28,13 @@
 <img align="right" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1ZWJnd2Nvb2RheXd4dGVucDd3cWFpOXBwYTBnbHJkbnRobGpuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
-class Sohibbal:
-    role        = ["AI Engineer", "Fullstack Web & Mobile"]
-    core        = "TensorFlow · Pyhton · FastAPI"
-    web         = "Next.js · TypeScript · PostgreSQL"
-    mobile      = "Flutter · Dart"
+class Human:
+    name        = "Sohibbal"
+    domicile    = "Pekanbaru, Indonesia"
     university  = "Universitas Riau — Teknik Informatika"
-    achievement = "Distinction Graduate Asah 2025 & Coding Camp 2026"
-    currently   = "Building MLOps pipelines & AI-powered apps"
-    motto       = "Train models. Ship products. Repeat."
+    achievement = "Distinction Graduate — ASAH 2025 & Coding Camp 2026"
+    role        = ["AI Engineer", "Fullstack Developer", "DataScientist"]
+    motto       = "Keep Learn. and Code."
 ```
 
 <br clear="right">
@@ -116,7 +114,7 @@ class Sohibbal:
 
 ---
 
-## → Contribution Snake
+## ⟫ Contribution Snake
 
 <div align="center">
   <picture>
@@ -130,5 +128,5 @@ class Sohibbal:
 
 <!-- FOOTER — flat rectangle, blue gradient reversed, with motto -->
 <div align="center">
-  <p>Keep Learn and Code</p>
+  <p>Keep Learn. and Code.</p>
 </div>
