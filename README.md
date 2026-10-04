@@ -15,7 +15,7 @@
   <a href="https://github.com/Sohibbal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
+  
   <a href="https://www.linkedin.com/in/msohibbal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -32,10 +32,10 @@
 ```python
 class Sohibbal:
     role        = ["AI Engineer", "Fullstack Web & Mobile"]
-    core        = "TensorFlow · Scikit-Learn · MLOps"
+    core        = "TensorFlow · Pyhton · FastAPI"
     web         = "Next.js · TypeScript · PostgreSQL"
     mobile      = "Flutter · Dart"
-    university  = "Universitas Riau — Informatika"
+    university  = "Universitas Riau — Teknik Informatika"
     achievement = "Distinction Graduate Asah 2025 & Coding Camp 2026"
     currently   = "Building MLOps pipelines & AI-powered apps"
     motto       = "Train models. Ship products. Repeat."
@@ -138,5 +138,5 @@ class Sohibbal:
 
 <!-- FOOTER — flat rectangle, blue gradient reversed, with motto -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,16,12,8,0&height=80&section=footer&fontSize=14&fontColor=93C5FD&text=Train%20models.%20Ship%20products.%20Repeat.&fontAlign=50&fontAlignY=50" />
+  <p>Keep Learn and Code</p>
 </div>
