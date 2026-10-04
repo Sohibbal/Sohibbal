@@ -21,15 +21,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sohibbal">
+  <a href="https://www.linkedin.com/in/msohibbal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Riau%2C%20Indonesia-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To%20Collaborate-2563EB?style=for-the-badge&logo=gitbook&logoColor=white" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sohibbal&style=for-the-badge&color=1D4ED8&label=VIEWS" />
 </div>
 
 ---
@@ -40,12 +36,12 @@
 
 ```python
 class Sohibbal:
-    role        = ["AI Engineer", "Fullstack Web Dev", "Mobile Dev"]
+    role        = ["AI Engineer", "Fullstack Web & Mobile"]
     core        = "TensorFlow · Scikit-Learn · MLOps"
     web         = "Next.js · TypeScript · PostgreSQL"
     mobile      = "Flutter · Dart"
     university  = "Universitas Riau — Informatika"
-    achievement = "Distinction Graduate · Dicoding 2025"
+    achievement = "Distinction Graduate Asah 2025 & Coding Camp 2026"
     currently   = "Building MLOps pipelines & AI-powered apps"
     motto       = "Train models. Ship products. Repeat."
 ```
