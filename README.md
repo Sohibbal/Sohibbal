@@ -1,41 +1,42 @@
 <!-- ============================================================ -->
 <!--  SOHIBBAL — GitHub Profile README                          -->
-<!--  Theme: Deep Amber / Warm Orange / Dark Charcoal           -->
+<!--  Theme: Minimal Blue                                       -->
 <!-- ============================================================ -->
 
-<!-- HEADER WAVE BANNER -->
+<!-- HEADER — flat rectangle, blue gradient, no waves -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,20,28,28&height=220&section=header&text=M.%20Sohibbal&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=FF6B35&desc=AI%20Engineer%20%7C%20Fullstack%20Web%20%7C%20Fullstack%20Mobile&descAlign=50&descAlignY=60&descColor=E8C5FF&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8,12,16,20&height=180&section=header&text=M.%20Sohibbal&fontSize=58&fontAlign=50&fontAlignY=45&fontColor=E8F4FD&desc=AI%20Engineer%20%E2%86%92%20Fullstack%20Web%20%E2%86%92%20Fullstack%20Mobile&descAlign=50&descAlignY=70&descColor=93C5FD&animation=fadeIn" />
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=FFB300&center=true&vCenter=true&multiline=false&width=620&lines=%F0%9F%A4%96+Building+Intelligent+Systems+with+AI;%F0%9F%8C%90+Crafting+Fullstack+Web+Apps+%E2%80%94+Next.js+%2B+PostgreSQL;%F0%9F%93%B1+Shipping+Mobile+Apps+with+Flutter;%F0%9F%94%AC+MLOps+%7C+TensorFlow+%7C+Scikit-Learn+%7C+Python;%F0%9F%8E%93+Distinction+Graduate+%40+Dicoding+2025" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=640&lines=%E2%86%92+Building+Intelligent+Systems+with+AI;%E2%86%92+Fullstack+Web+Apps+%E2%80%94+Next.js+%2B+PostgreSQL;%E2%86%92+Fullstack+Mobile+Apps+with+Flutter;%E2%86%92+MLOps+%7C+TensorFlow+%7C+Scikit-Learn+%7C+Python;%E2%86%92+Distinction+Graduate+%40+Dicoding+2025" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- BIO CARD -->
+<!-- CONNECT WITH ME — at top -->
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🧠  M. Sohibbal  ·  AI Engineer & Software Developer           ║
-║  📍  Riau, Indonesia  ·  Universitas Riau — Informatika          ║
-║  🏆  Distinction Graduate · Asah Led by Dicoding 2025            ║
-║  🔭  Focused on: Machine Learning · MLOps · Full-Stack Dev       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
+  <a href="https://github.com/Sohibbal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sohibbal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Riau%2C%20Indonesia-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To%20Collaborate-2563EB?style=for-the-badge&logo=gitbook&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sohibbal&style=for-the-badge&color=1D4ED8&label=VIEWS" />
 </div>
 
 ---
 
-## 🤖 About Me
+## → About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1ZWJnd2Nvb2RheXd4dGVucDd3cWFpOXBwYTBnbHJkbnRobGpuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1ZWJnd2Nvb2RheXd4dGVucDd3cWFpOXBwYTBnbHJkbnRobGpuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 class Sohibbal:
@@ -53,9 +54,9 @@ class Sohibbal:
 
 ---
 
-## 🛠️ Tech Stack
+## → Tech Stack
 
-### 🧠 AI / Machine Learning *(Dominant)*
+### AI / Machine Learning *(Dominant)*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -69,7 +70,7 @@ class Sohibbal:
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111" />
 </p>
 
-### 🌐 Fullstack Web
+### Fullstack Web
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -80,14 +81,14 @@ class Sohibbal:
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### 📱 Fullstack Mobile
+### Fullstack Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111" />
 </p>
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -98,41 +99,41 @@ class Sohibbal:
 
 ---
 
-## 📊 GitHub Statistics
+## → GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sohibbal&show_icons=true&count_private=true&bg_color=1a1a1a&title_color=FFB300&text_color=FFF8E1&icon_color=FF6F00&border_color=FF6F00&border_radius=12&hide_border=false&custom_title=Sohibbal's%20GitHub%20Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sohibbal&show_icons=true&count_private=true&bg_color=0D1117&title_color=60A5FA&text_color=E8F4FD&icon_color=3B82F6&border_color=1E3A5F&border_radius=10&hide_border=false&custom_title=Sohibbal's%20GitHub%20Stats" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohibbal&layout=compact&bg_color=1a1a1a&title_color=FFB300&text_color=FFF8E1&border_color=FF6F00&border_radius=12&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohibbal&layout=compact&bg_color=0D1117&title_color=60A5FA&text_color=E8F4FD&border_color=1E3A5F&border_radius=10&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohibbal&background=1a1a1a&ring=FFB300&fire=FF6F00&currStreakLabel=FFB300&currStreakNum=FFF8E1&sideNums=FFF8E1&sideLabels=F7931E&dates=FFF8E1cc&stroke=FF6F00&border=FF6F00&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohibbal&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&currStreakNum=E8F4FD&sideNums=E8F4FD&sideLabels=93C5FD&dates=93C5FDcc&stroke=1E3A5F&border=1E3A5F&border_radius=10" />
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## → Featured Projects
 
 <div align="center">
 
-[![mlops-obesity-classification](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=mlops-obesity-classification&bg_color=1a1a1a&title_color=FFB300&text_color=FFF8E1&icon_color=FF6F00&border_color=FF6F00&border_radius=12)](https://github.com/Sohibbal/mlops-obesity-classification)
+[![mlops-obesity-classification](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=mlops-obesity-classification&bg_color=0D1117&title_color=60A5FA&text_color=E8F4FD&icon_color=3B82F6&border_color=1E3A5F&border_radius=10)](https://github.com/Sohibbal/mlops-obesity-classification)
 &nbsp;
-[![beijing-air-quality-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=beijing-air-quality-dashboard&bg_color=1a1a1a&title_color=FFB300&text_color=FFF8E1&icon_color=FF6F00&border_color=FF6F00&border_radius=12)](https://github.com/Sohibbal/beijing-air-quality-dashboard)
+[![beijing-air-quality-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=beijing-air-quality-dashboard&bg_color=0D1117&title_color=60A5FA&text_color=E8F4FD&icon_color=3B82F6&border_color=1E3A5F&border_radius=10)](https://github.com/Sohibbal/beijing-air-quality-dashboard)
 
-[![finoch](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=finoch&bg_color=1a1a1a&title_color=FFB300&text_color=FFF8E1&icon_color=FF6F00&border_color=FF6F00&border_radius=12)](https://github.com/Sohibbal/finoch)
+[![finoch](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=finoch&bg_color=0D1117&title_color=60A5FA&text_color=E8F4FD&icon_color=3B82F6&border_color=1E3A5F&border_radius=10)](https://github.com/Sohibbal/finoch)
 &nbsp;
-[![mistech-app](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=mistech-app&bg_color=1a1a1a&title_color=FFB300&text_color=FFF8E1&icon_color=FF6F00&border_color=FF6F00&border_radius=12)](https://github.com/Sohibbal/mistech-app)
+[![mistech-app](https://github-readme-stats.vercel.app/api/pin/?username=Sohibbal&repo=mistech-app&bg_color=0D1117&title_color=60A5FA&text_color=E8F4FD&icon_color=3B82F6&border_color=1E3A5F&border_radius=10)](https://github.com/Sohibbal/mistech-app)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## → Contribution Snake
 
 <div align="center">
   <picture>
@@ -144,26 +145,7 @@ class Sohibbal:
 
 ---
 
-## 🤝 Connect With Me
-
+<!-- FOOTER — flat rectangle, blue gradient reversed, with motto -->
 <div align="center">
-  <a href="https://github.com/Sohibbal">
-    <img src="https://img.shields.io/badge/GitHub-Sohibbal-FFB300?style=for-the-badge&logo=github&logoColor=1a1a1a" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Riau%2C%20Indonesia-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate%20%26%20Opportunities-FFB300?style=for-the-badge&logo=handshake&logoColor=1a1a1a" />
-</div>
-
----
-
-<!-- FOOTER WAVE -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=28,20,20,12,12&height=130&section=footer" />
-</div>
-
-<!-- PROFILE VIEWS COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohibbal&style=for-the-badge&color=FF6F00&label=PROFILE+VIEWS" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,16,12,8,0&height=80&section=footer&fontSize=14&fontColor=93C5FD&text=Train%20models.%20Ship%20products.%20Repeat.&fontAlign=50&fontAlignY=50" />
 </div>
