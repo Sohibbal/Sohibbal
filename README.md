@@ -9,6 +9,7 @@
 </div>
 
 <br>
+<br>
 
 <!-- CONNECT WITH ME — at top -->
 <div align="center">
@@ -74,6 +75,8 @@ class Human:
   </a>
 </p>
 
+<br>
+
 ## ⟫ GitHub Statistics
 
 <div align="center">
@@ -90,6 +93,8 @@ class Human:
 
 </div>
 
+<br>
+
 ## ⟫ Featured Projects
 
 <div align="center">
@@ -104,6 +109,8 @@ class Human:
 
 </div>
 
+<br>
+
 ## ⟫ Contribution Snake
 
 <div align="center">
@@ -113,6 +120,8 @@ class Human:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sohibbal/Sohibbal/output/github-snake-dark.svg" />
   </picture>
 </div>
+
+<br>
 
 <!-- FOOTER — flat rectangle, blue gradient reversed, with motto -->
 <div align="center">
