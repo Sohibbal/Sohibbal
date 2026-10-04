@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Riau%2C%20Indonesia-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
----
-
 ## ⟫ About Me
 
 <img align="right" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1ZWJnd2Nvb2RheXd4dGVucDd3cWFpOXBwYTBnbHJkbnRobGpuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -53,7 +51,7 @@ class Human:
 ### AI / Machine Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,fastapi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,pytorch,pytorchlightning&theme=dark" />
   </a>
 </p>
 
