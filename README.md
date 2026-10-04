@@ -8,9 +8,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8,12,16,20&height=180&section=header&text=M.%20Sohibbal&fontSize=58&fontAlign=50&fontAlignY=45&fontColor=E8F4FD&desc=AI%20Engineer%20%E2%86%92%20Fullstack%20Web%20%E2%86%92%20Fullstack%20Mobile&descAlign=50&descAlignY=70&descColor=93C5FD&animation=fadeIn" />
 </div>
 
-<!-- ANIMATED TYPING -->
+<!-- ANIMATED NAME + ROLE TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=640&lines=%E2%86%92+Building+Intelligent+Systems+with+AI;%E2%86%92+Fullstack+Web+Apps+%E2%80%94+Next.js+%2B+PostgreSQL;%E2%86%92+Fullstack+Mobile+Apps+with+Flutter;%E2%86%92+MLOps+%7C+TensorFlow+%7C+Scikit-Learn+%7C+Python;%E2%86%92+Distinction+Graduate+%40+Dicoding+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1200&color=E8F4FD&center=true&vCenter=true&width=640&lines=M.+Sohibbal;%E2%86%92+AI+Engineer;%E2%86%92+Fullstack+Web+Dev;%E2%86%92+Fullstack+Mobile+Dev;%E2%86%92+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
@@ -52,45 +52,45 @@ class Sohibbal:
 
 ## → Tech Stack
 
-### AI / Machine Learning *(Dominant)*
+### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,dart&theme=dark" />
+  </a>
 </p>
 
-### Fullstack Web
+### AI / Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a1a" height="45" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a1a" height="45" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a1a" height="45" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=1a1a1a" height="45" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=111&labelColor=1a1a1a" height="45" />
 </p>
 
-### Fullstack Mobile
+### Frameworks & Runtime
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,flutter&theme=dark" />
+  </a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,firebase,mysql,prisma&theme=dark" />
+  </a>
 </p>
 
 ### DevOps & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,github&theme=dark" />
+  </a>
 </p>
 
 ---
