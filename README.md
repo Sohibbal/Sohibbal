@@ -25,7 +25,7 @@
 
 ## ⟫ About Me
 
-<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR3dWc2ZmwybWU3a200ZXQwNWFvanloenljOGN0NDl3dzZsMHpkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR3dWc2ZmwybWU3a200ZXQwNWFvanloenljOGN0NDl3dzZsMHpkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
 
 ```python
 class Human:
