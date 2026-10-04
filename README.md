@@ -5,7 +5,7 @@
 
 <!-- HEADER WAVE BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=M.%20Sohibbal&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=FFB300&desc=AI%20Engineer%20%7C%20Fullstack%20Web%20%7C%20Fullstack%20Mobile&descAlign=50&descAlignY=60&descColor=FFF8E1&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,20,28,28&height=220&section=header&text=M.%20Sohibbal&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=FF6B35&desc=AI%20Engineer%20%7C%20Fullstack%20Web%20%7C%20Fullstack%20Mobile&descAlign=50&descAlignY=60&descColor=E8C5FF&animation=twinkling" />
 </div>
 
 <!-- ANIMATED TYPING -->
@@ -57,43 +57,43 @@ class Sohibbal:
 
 ### 🧠 AI / Machine Learning *(Dominant)*
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFB300?style=for-the-badge&logo=python&logoColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-FFB300?style=for-the-badge&logo=pandas&logoColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/NumPy-FF6F00?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FFB300?style=for-the-badge&logo=plotly&logoColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/MLflow-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F7931E?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFB300?style=for-the-badge&logo=huggingface&logoColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111" />
 </p>
 
 ### 🌐 Fullstack Web
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-FF6F00?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-FFB300?style=for-the-badge&logo=typescript&logoColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/React-FF6F00?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-F7931E?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-FFB300?style=for-the-badge&logo=prisma&logoColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Node.js-FF6F00?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-FFB300?style=for-the-badge&logo=tailwindcss&logoColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### 📱 Fullstack Mobile
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-FFB300?style=for-the-badge&logo=dart&logoColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Firebase-F7931E?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-FF6F00?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FFB300?style=for-the-badge&logo=git&logoColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-F7931E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FFB300?style=for-the-badge&logo=linux&logoColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" />
 </p>
 
 ---
@@ -112,14 +112,6 @@ class Sohibbal:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohibbal&background=1a1a1a&ring=FFB300&fire=FF6F00&currStreakLabel=FFB300&currStreakNum=FFF8E1&sideNums=FFF8E1&sideLabels=F7931E&dates=FFF8E1cc&stroke=FF6F00&border=FF6F00&border_radius=12" />
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sohibbal&theme=darkhub&margin-w=12&margin-h=12&no-frame=true&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
 </div>
 
 ---
@@ -152,14 +144,6 @@ class Sohibbal:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohibbal&bg_color=1a1a1a&color=FFB300&line=FF6F00&point=FFF8E1&area=true&area_color=FF6F00&hide_border=false&border_color=FF6F00&radius=12&custom_title=Sohibbal's%20Contribution%20Graph" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -176,7 +160,7 @@ class Sohibbal:
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=28,20,20,12,12&height=130&section=footer" />
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
