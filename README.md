@@ -25,7 +25,7 @@
 
 ## ⟫ About Me
 
-<img align="right" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1ZWJnd2Nvb2RheXd4dGVucDd3cWFpOXBwYTBnbHJkbnRobGpuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1ZWJnd2Nvb2RheXd4dGVucDd3cWFpOXBwYTBnbHJkbnRobGpuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 class Human:
@@ -122,7 +122,7 @@ class Human:
   </picture>
 </div>
 
-<br>
+---
 
 <!-- FOOTER — flat rectangle, blue gradient reversed, with motto -->
 <div align="center">
