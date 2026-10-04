@@ -5,7 +5,7 @@
 
 <!-- ANIMATED NAME + ROLE TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1200&color=E8F4FD&center=true&vCenter=true&width=640&lines=M.+Sohibbal.AI+Engineer;Web+Developer;MLOps+Engineer;Mobile+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1200&color=E8F4FD&center=true&vCenter=true&width=640&lines=M.+Sohibbal;.AI+Engineer;.Web+Developer;.MLOps+Engineer;.Mobile+Developer;" alt="Typing SVG" />
 </div>
 
 <br>
@@ -55,7 +55,7 @@ class Sohibbal:
 ### AI / Machine Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,kerss,sklearn,fastapi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,fastapi&theme=dark" />
   </a>
 </p>
 
