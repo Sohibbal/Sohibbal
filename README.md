@@ -55,7 +55,7 @@ class Sohibbal:
 ### AI / Machine Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,kerss,sklearn,fastapi&theme=dark" />
   </a>
 </p>
 
